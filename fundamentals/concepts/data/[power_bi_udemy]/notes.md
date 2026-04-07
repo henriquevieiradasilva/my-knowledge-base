@@ -628,7 +628,30 @@ RELACIONAMENTO ENTRE TABELAS FATO E DIMENSÃO
 
 OTIMIZANDO O MODELO E CRIANDO SINÔNIMOS
 
+    sempre bomm otimizar e limpar para mostrar somente o necessário 
+        uma prática boa é ocultar código para que fique visivel somente o conteudo
+            só ir no modelo e apertar para ocultar na coluna que deseja
+
+    1 -> TIRAR AS COLUNAS CÓDIGOS E DEIXAR ELES INVISIVEIS
+    2 -> COLOCAR SINONIMOS NAS COLUNAS/TABELAS
+            para caso utilizar ferramenta de IA ela identifica mais facilmente
 
 
 CRIANDO COLUNA CALCULADA E ORGANIZAÇÃO DE COLUNAS/MEDIDAS POR PASTA
 
+    usando um pouco da aba de exibição de tabela
+        dá para fazer algumas alterações diretamente por lá, como o formato dos dados
+
+    evitar ao máximo usar coluna calculada, o certo é fazer medidas/fórmulas
+        COLUNA CALCULADA -> OCUPA ESPAÇO, USA MEMÓRIA DO COMPUTADOR
+            como faz
+                -> clica na tabela que deseja para abrir a tabela
+                    -> [FERRAMENTAS DE COLUNA]
+                        -> [NOVA COLUNA]
+                            -> COLOCA A FÓRMULA QUE DESEJA
+    
+    da pra organizar mais ainda a tabela
+        -> CLICA NAS COLUNAS QUE DESEJA COLOCAR EM UMA PASTA/GRUPO ESPECÍFICO DA TABELA
+            -> [PASTA DE EXIBIÇÃO]
+                -> COLOCA UM NOME PARA PASTA E CLICA [ENTER]
+                        agora essas colunas continuaram nas tabelas normalmente mas em CAMPOS ou DADOS agora elas estarão em pastas, mais organizado'
